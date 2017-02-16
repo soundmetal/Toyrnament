@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Contador">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Contador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExplosionScript">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQwCARAAiAAAAAAAAAAAAAAgEAAAAAAgAAgAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\ExplosionScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="finalpartida">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAUAAEACAAECAAAAAAGQAAAECACAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\finalpartida.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="gameManager">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAkAACCAAAAEAAAAAAIAAAAEAAAAAAARhAAAIAAA=</HashCode>
+      <FileName>Assets\Scripts\gameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="item">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAEAAAQAAAAAAAAAAABAAAgBAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="knockBox">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQACAAwACAAAAAAAACAYgAAAAAAAAAAAAAgAAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\knockBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="medKit">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\medKit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu_Controller">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAACAAACAAAAwAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Menu_Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PlayerController.DireccionDisparo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\PlayerController.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEGAFQUEAmAAAAAEECAAIAAAAAAlAUDQAAAgIAAAAgA=</HashCode>
+      <FileName>Assets\Scripts\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController_2">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="PlayerController_2.DireccionDisparo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\PlayerController_2.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AEGAFQEEQmAAAAEEACAIIAAgAAAEAUDAAAQgIAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerController_2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shootDestroy">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\shootDestroy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shootMove">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAACCAAAAEAAAAAAAAAAAAQQAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\shootMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
